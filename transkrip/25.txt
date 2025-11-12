@@ -1,6 +1,0 @@
-[0.00s - 2.00s] Apa?
-[2.00s - 4.00s] Rekodin, rekodin
-[4.00s - 6.00s] Ya, aku kasih ya
-[6.00s - 8.00s] Yang di air
-[8.00s - 10.00s] Yang berasa dingin nggak, yang?
-[10.00s - 12.00s] Dingin, dingin ya
